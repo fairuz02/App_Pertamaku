@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
                     Text('Saldo Kamu', style: TextStyle(color: Colors.white70)),
                     SizedBox(height: 8),
                     Text(
-                      'Rp 1.250.000',
+                      'Rp 1.000.250.000',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 28,
